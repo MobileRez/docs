@@ -68,6 +68,7 @@ For more technical details on what comes on your device, go [here](/datasheets).
   * WPA/WPA2 encryption
   * On a broadcasted SSID network
   * Not behind a hard firewall or Enterprise network
+  * Not contain a captive portal (suggested workarounds found [here](https://community.particle.io/t/wifi-connection-in-hotel/13289)
   * *Note: We do not recommend using WEP wifi settings, for security reasons.*
 * **Experience**
     * None! This is your first project.
@@ -89,6 +90,7 @@ For more technical details on what comes on your device, go [here](/datasheets).
   * WPA/WPA2 encryption
   * On a broadcasted SSID network
   * Not behind a hard firewall or Enterprise network
+  * Not contain a captive portal (suggested workarounds found [here](https://community.particle.io/t/wifi-connection-in-hotel/13289)
   * *Note: We do not recommend using WEP wifi settings, for security reasons.*
 * **Experience**
     * None! This is your first project.
